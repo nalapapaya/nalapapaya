@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Maddy!
+# 👋 Call me Maddy!
 
-I'm a **Fullstack Developer** who loves building creative, interactive web apps — from playful pet cafés to dog-team builders and mini-games.  
+I'm a **Fullstack Developer** who loves building creative, interactive web apps from playful pet cafés to dog-team builders and mini-games.  
 Curious, adaptable, and always learning ✨
 
 ---
