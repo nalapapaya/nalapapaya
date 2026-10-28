@@ -34,8 +34,8 @@ A team-built React + Express project. I worked on the backend and part of the fr
 🐕 **[The League of Good Pups](https://github.com/nalapapaya/the-league-of-good-pups)**  
 Build your dream team of dog breeds, visualize stats, tweak data, and store everything in Airtable.
 
-🎯 **[Whack-a-Ka-TSOA](https://github.com/nalapapaya/whack-a-ka-tsoa)**  
-A TypeScript + TSOA mini-game that blends playful UI with structured APIs.
+🎯 **[Whack-a-Ka-Tsoa](https://github.com/nalapapaya/whack-a-ka-tsoa)**  
+A chaotic little browser game built with HTML, CSS, and vanilla JavaScript. Pick your weapon, whack those ka-tsoas, and see how many you can catch before time runs out!
 
 ---
 
